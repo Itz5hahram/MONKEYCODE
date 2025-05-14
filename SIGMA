@@ -6,7 +6,7 @@
       return _0x3b3a5b.apply(this, arguments);
     }
   };
-  console.log("%c BLOOKET CHEAT GUI | SWAGGERS GUI %c\n\tCreated by Itz5hahram on GitHub!!!", "color: #e60000; font-size: 3rem", "color: ##ffffff; font-size: 1rem");
+  console.log("%c BLOOKET CHEAT GUI | FUCK YEAAA %c\n\tCreated by Itz5hahram on GitHub!!!", "color: #e60000; font-size: 3rem", "color: ##ffffff; font-size: 1rem");
   console.log("%c\tgui.js (console version)", "color: #0bc2cf; font-size: 1rem");
   console.log("%c\tStar the GitHub repository to support us!%c  https://github.com/Itz5hahram/MONKEYCODE/blob/main/SIGMA", "color: #ffd000; font-size: 1rem", '');
   if (document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
